@@ -184,7 +184,7 @@ a:hover {
 }
 /*header*/
 .texture {
-  background: url(../images/main_texture.png) center 0 repeat-y;
+  background: #fff;
 }
 header {
   display: block;

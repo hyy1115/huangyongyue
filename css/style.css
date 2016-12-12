@@ -267,9 +267,9 @@ header h1 a {
 }
 #skills {
   text-align: center;
-  background-color: #287e7d;
   padding-bottom: 93px;
-  background: url(../images/bg-1.jpg) center 0 no-repeat;
+  background: #2e3966;
+  opacity: 0.85;
 }
 #skills h2 {
   color: #ffffff;

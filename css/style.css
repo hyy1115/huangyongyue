@@ -1,13 +1,13 @@
 @import '../css/grid.css';
 @import '../css/font-awesome.css';
-@import url(http://fonts.useso.com/css?family=Open+Sans:400);
-@import url(http://fonts.useso.com/css?family=Open+Sans:700);
-@import url(http://fonts.useso.com/css?family=Open+Sans:300);
-@import url(http://fonts.useso.com/css?family=Open+Sans:300italic);
-@import url(http://fonts.useso.com/css?family=Open+Sans:400italic);
-@import url(http://fonts.useso.com/css?family=Yanone+Kaffeesatz);
-@import url(http://fonts.useso.com/css?family=Open+Sans+Condensed:300);
-@import url(http://fonts.useso.com/css?family=Open+Sans+Condensed:700);
+/*@import url(http://fonts.useso.com/css?family=Open+Sans:400);*/
+/*@import url(http://fonts.useso.com/css?family=Open+Sans:700);*/
+/*@import url(http://fonts.useso.com/css?family=Open+Sans:300);*/
+/*@import url(http://fonts.useso.com/css?family=Open+Sans:300italic);*/
+/*@import url(http://fonts.useso.com/css?family=Open+Sans:400italic);*/
+/*@import url(http://fonts.useso.com/css?family=Yanone+Kaffeesatz);*/
+/*@import url(http://fonts.useso.com/css?family=Open+Sans+Condensed:300);*/
+/*@import url(http://fonts.useso.com/css?family=Open+Sans+Condensed:700);*/
 html {
   width: 100%;
 }

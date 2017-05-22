@@ -39,3 +39,5 @@ jspm_packages
 fonts/
 
 bat/
+
+.idea/
